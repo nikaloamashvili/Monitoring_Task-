@@ -2,7 +2,7 @@
 
 <body>
 <h3>Hello World of JSP n.l</h3>
-the time on the server is  <%= new java.util.Date() %>
-</html>
+the time on the server is  <%= new java.util.Date(3) %>
 
-</body>
+</budy>
+
