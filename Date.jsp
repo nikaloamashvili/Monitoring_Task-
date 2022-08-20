@@ -1,9 +1,9 @@
 <html>
 
 <body>
-<h3>Hello World of JSP from N.L</h3>
+<h3>Hello World of JSP</h3>
 the time on the server is  <%= new java.util.Date() %>
- 
+ DevOps work
 </html>
 
 </body>
